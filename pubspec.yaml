@@ -1,0 +1,13 @@
+name: solo_leveling_fitness_app
+description: A fitness app where users level up based on workouts.
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.12.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+flutter:
+  uses-material-design: true
